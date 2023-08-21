@@ -1,5 +1,4 @@
 import React from "react";
-// import Forms from "./forms";
 
 function Card({ entry }) {
     return <div className="card">
